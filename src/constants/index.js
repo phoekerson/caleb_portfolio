@@ -91,7 +91,7 @@ const abilities = [
 
 const techStackImgs = [
   {
-    name: "React Developer",
+    name: "Nextjs Developer",
     imgPath: "/images/logos/react.png",
   },
   {
@@ -114,7 +114,7 @@ const techStackImgs = [
 
 const techStackIcons = [
   {
-    name: "React Developer",
+    name: "NextJs Developer",
     modelPath: "/models/react_logo-transformed.glb",
     scale: 1,
     rotation: [0, 0, 0],
@@ -147,11 +147,11 @@ const techStackIcons = [
 
 const expCards = [
   {
-    review: "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+    review: "Caleb brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
     imgPath: "/images/exp1.png",
     logoPath: "/images/logo1.png",
-    title: "Frontend Developer",
-    date: "January 2023 - Present",
+    title: "Frontend Developer and Community Manager",
+    date: "Juin 2024 - Present",
     responsibilities: [
       "Developed and maintained user-facing features for the Hostinger website.",
       "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
@@ -159,11 +159,11 @@ const expCards = [
     ],
   },
   {
-    review: "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
+    review: "Caleb’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
     imgPath: "/images/exp2.png",
     logoPath: "/images/logo2.png",
-    title: "Full Stack Developer",
-    date: "June 2020 - December 2023",
+    title: "Front Developer and Chief Technical Officer",
+    date: "June 2022 - Janvier 2025",
     responsibilities: [
       "Led the development of Docker's web applications, focusing on scalability.",
       "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
@@ -171,7 +171,7 @@ const expCards = [
     ],
   },
   {
-    review: "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
+    review: "Caleb’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
     imgPath: "/images/exp3.png",
     logoPath: "/images/logo3.png",
     title: "React Native Developer",

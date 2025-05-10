@@ -3,6 +3,7 @@ import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { useGSAP } from "@gsap/react";
 
+
 gsap.registerPlugin(ScrollTrigger);
 
 const AppShowcase = () => {
@@ -49,16 +50,16 @@ const AppShowcase = () => {
         <div className="showcaselayout">
           <div ref={rydeRef} className="first-project-wrapper">
             <div className="image-wrapper">
-              <img src="/images/project1.png" alt="Ryde App Interface" />
+              <a href="https://fastai-app.netlify.app" target="_blank">
+              <img src="/images/fast-ai-.png" alt="Fast AI screenshot" />
+              </a>
             </div>
             <div className="text-content">
               <h2>
-                On-Demand Rides Made Simple with a Powerful, User-Friendly App
-                called Ryde
+               Fast-AI is a SaaS for content creator and it helps user generate best content with the help of Gemini AI.
               </h2>
               <p className="text-white-50 md:text-xl">
-                An app built with React Native, Expo, & TailwindCSS for a fast,
-                user-friendly experience.
+                An web app with Nextjs, Clerk Authentication, Drizzle ORM, Gemini API.
               </p>
             </div>
           </div>
@@ -66,19 +67,23 @@ const AppShowcase = () => {
           <div className="project-list-wrapper overflow-hidden">
             <div className="project" ref={libraryRef}>
               <div className="image-wrapper bg-[#FFEFDB]">
+                <a href="https://roomify-one.vercel.app/" target="_blank">
                 <img
                   src="/images/project2.png"
                   alt="Library Management Platform"
                 />
+                </a>
               </div>
-              <h2>The Library Management Platform</h2>
+              <h2>Roomify, a web app for book and host for free Room or Appartment.</h2>
             </div>
 
             <div className="project" ref={ycDirectoryRef}>
               <div className="image-wrapper bg-[#FFE7EB]">
-                <img src="/images/project3.png" alt="YC Directory App" />
+                <a href="https://lbs-beta.vercel.app/">
+                <img src="/images/project3.png" alt="LBS-Consult" target="_blank"/>
+                </a>
               </div>
-              <h2>YC Directory - A Startup Showcase App</h2>
+              <h2>LBS-Consult, is web app for student who can check the result of the test exam to Lomé Business School University</h2>
             </div>
           </div>
         </div>
