@@ -148,7 +148,6 @@ const techStackIcons = [
 const expCards = [
   {
     review: "Caleb brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
-    imgPath: "/images/exp1.png",
     logoPath: "/images/logo1.png",
     title: "Frontend Developer and Community Manager",
     date: "Juin 2024 - Present",
@@ -160,7 +159,6 @@ const expCards = [
   },
   {
     review: "Caleb’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
-    imgPath: "/images/exp2.png",
     logoPath: "/images/logo2.png",
     title: "Front Developer and Chief Technical Officer",
     date: "June 2022 - Janvier 2025",
@@ -172,9 +170,8 @@ const expCards = [
   },
   {
     review: "Caleb’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
-    imgPath: "/images/exp3.png",
     logoPath: "/images/logo3.png",
-    title: "React Native Developer",
+    title: "Front end teacher",
     date: "March 2019 - May 2020",
     responsibilities: [
       "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
