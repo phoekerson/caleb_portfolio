@@ -158,7 +158,7 @@ const expCards = [
     ],
   },
   {
-    review: "Caleb’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
+    review: "Caleb’s contributions to Montechnicien web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
     logoPath: "/images/logo2.png",
     title: "Front Developer and Chief Technical Officer",
     date: "June 2022 - Janvier 2025",
