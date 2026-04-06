@@ -245,18 +245,22 @@ const socialImgs = [
   {
     name: "insta",
     imgPath: "/images/insta.png",
+    url: "https://instagram.com", // Update with your Instagram profile
   },
   {
     name: "fb",
     imgPath: "/images/fb.png",
+    url: "https://facebook.com", // Update with your Facebook profile
   },
   {
     name: "x",
     imgPath: "/images/x.png",
+    url: "https://twitter.com", // Update with your Twitter/X profile
   },
   {
     name: "linkedin",
     imgPath: "/images/linkedin.png",
+    url: "https://www.linkedin.com/in/caleb-mintoumba-25b21b240/",
   },
 ];
 
